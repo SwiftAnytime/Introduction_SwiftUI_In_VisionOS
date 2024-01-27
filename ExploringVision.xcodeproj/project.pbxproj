@@ -15,29 +15,6 @@
 		DBAED05E2B5BD44000DFF3EE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAED05D2B5BD44000DFF3EE /* ContentView.swift */; };
 		DBAED0602B5BD44100DFF3EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DBAED05F2B5BD44100DFF3EE /* Assets.xcassets */; };
 		DBAED0632B5BD44100DFF3EE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DBAED0622B5BD44100DFF3EE /* Preview Assets.xcassets */; };
-		DBAED0832B5C461A00DFF3EE /* MarigoldFlower.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAED06B2B5C461900DFF3EE /* MarigoldFlower.swift */; };
-		DBAED0842B5C461A00DFF3EE /* OrchidsFlower.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAED06C2B5C461900DFF3EE /* OrchidsFlower.swift */; };
-		DBAED0852B5C461A00DFF3EE /* NormalFlower.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAED06D2B5C461900DFF3EE /* NormalFlower.swift */; };
-		DBAED0862B5C461A00DFF3EE /* LotusFlower.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAED06E2B5C461900DFF3EE /* LotusFlower.swift */; };
-		DBAED0872B5C461A00DFF3EE /* Sunflower.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAED06F2B5C461900DFF3EE /* Sunflower.swift */; };
-		DBAED0882B5C461A00DFF3EE /* TuberoseFlower.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAED0702B5C461900DFF3EE /* TuberoseFlower.swift */; };
-		DBAED0892B5C461A00DFF3EE /* RoseMyrtleFlower.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAED0712B5C461900DFF3EE /* RoseMyrtleFlower.swift */; };
-		DBAED08A2B5C461A00DFF3EE /* ApricotFlower.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAED0722B5C461900DFF3EE /* ApricotFlower.swift */; };
-		DBAED08B2B5C461A00DFF3EE /* YellowDaisyFlower.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAED0732B5C461900DFF3EE /* YellowDaisyFlower.swift */; };
-		DBAED08C2B5C461A00DFF3EE /* RoseFlower.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAED0742B5C461900DFF3EE /* RoseFlower.swift */; };
-		DBAED08D2B5C461A00DFF3EE /* DaisyFlower.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAED0752B5C461900DFF3EE /* DaisyFlower.swift */; };
-		DBAED08E2B5C461A00DFF3EE /* GattungCamelliaFlower.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAED0762B5C461900DFF3EE /* GattungCamelliaFlower.swift */; };
-		DBAED08F2B5C461A00DFF3EE /* FourLeafClover.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAED0772B5C461900DFF3EE /* FourLeafClover.swift */; };
-		DBAED0902B5C461A00DFF3EE /* IrisDomesticaFlower.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAED0782B5C461900DFF3EE /* IrisDomesticaFlower.swift */; };
-		DBAED0912B5C461A00DFF3EE /* CherryBlossom .swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAED0792B5C461900DFF3EE /* CherryBlossom .swift */; };
-		DBAED0922B5C461A00DFF3EE /* ChrysanthemumPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAED07B2B5C461900DFF3EE /* ChrysanthemumPath.swift */; };
-		DBAED0932B5C461A00DFF3EE /* OrchidsPatelPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAED07C2B5C461900DFF3EE /* OrchidsPatelPath.swift */; };
-		DBAED0942B5C461A00DFF3EE /* IrisDomesticaPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAED07D2B5C461900DFF3EE /* IrisDomesticaPath.swift */; };
-		DBAED0952B5C461A00DFF3EE /* CheryBlossomFlowerPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAED07E2B5C461900DFF3EE /* CheryBlossomFlowerPath.swift */; };
-		DBAED0962B5C461A00DFF3EE /* DrawingPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAED07F2B5C461A00DFF3EE /* DrawingPath.swift */; };
-		DBAED0972B5C461A00DFF3EE /* NormalFlowerPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAED0802B5C461A00DFF3EE /* NormalFlowerPath.swift */; };
-		DBAED0982B5C461A00DFF3EE /* HeartShapePath.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAED0812B5C461A00DFF3EE /* HeartShapePath.swift */; };
-		DBAED0992B5C461A00DFF3EE /* LotusFlowerPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAED0822B5C461A00DFF3EE /* LotusFlowerPath.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,29 +28,6 @@
 		DBAED05F2B5BD44100DFF3EE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DBAED0622B5BD44100DFF3EE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DBAED0642B5BD44100DFF3EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		DBAED06B2B5C461900DFF3EE /* MarigoldFlower.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MarigoldFlower.swift; sourceTree = "<group>"; };
-		DBAED06C2B5C461900DFF3EE /* OrchidsFlower.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrchidsFlower.swift; sourceTree = "<group>"; };
-		DBAED06D2B5C461900DFF3EE /* NormalFlower.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NormalFlower.swift; sourceTree = "<group>"; };
-		DBAED06E2B5C461900DFF3EE /* LotusFlower.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotusFlower.swift; sourceTree = "<group>"; };
-		DBAED06F2B5C461900DFF3EE /* Sunflower.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sunflower.swift; sourceTree = "<group>"; };
-		DBAED0702B5C461900DFF3EE /* TuberoseFlower.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TuberoseFlower.swift; sourceTree = "<group>"; };
-		DBAED0712B5C461900DFF3EE /* RoseMyrtleFlower.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoseMyrtleFlower.swift; sourceTree = "<group>"; };
-		DBAED0722B5C461900DFF3EE /* ApricotFlower.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ApricotFlower.swift; sourceTree = "<group>"; };
-		DBAED0732B5C461900DFF3EE /* YellowDaisyFlower.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YellowDaisyFlower.swift; sourceTree = "<group>"; };
-		DBAED0742B5C461900DFF3EE /* RoseFlower.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoseFlower.swift; sourceTree = "<group>"; };
-		DBAED0752B5C461900DFF3EE /* DaisyFlower.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DaisyFlower.swift; sourceTree = "<group>"; };
-		DBAED0762B5C461900DFF3EE /* GattungCamelliaFlower.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GattungCamelliaFlower.swift; sourceTree = "<group>"; };
-		DBAED0772B5C461900DFF3EE /* FourLeafClover.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FourLeafClover.swift; sourceTree = "<group>"; };
-		DBAED0782B5C461900DFF3EE /* IrisDomesticaFlower.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IrisDomesticaFlower.swift; sourceTree = "<group>"; };
-		DBAED0792B5C461900DFF3EE /* CherryBlossom .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CherryBlossom .swift"; sourceTree = "<group>"; };
-		DBAED07B2B5C461900DFF3EE /* ChrysanthemumPath.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChrysanthemumPath.swift; sourceTree = "<group>"; };
-		DBAED07C2B5C461900DFF3EE /* OrchidsPatelPath.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrchidsPatelPath.swift; sourceTree = "<group>"; };
-		DBAED07D2B5C461900DFF3EE /* IrisDomesticaPath.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IrisDomesticaPath.swift; sourceTree = "<group>"; };
-		DBAED07E2B5C461900DFF3EE /* CheryBlossomFlowerPath.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CheryBlossomFlowerPath.swift; sourceTree = "<group>"; };
-		DBAED07F2B5C461A00DFF3EE /* DrawingPath.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DrawingPath.swift; sourceTree = "<group>"; };
-		DBAED0802B5C461A00DFF3EE /* NormalFlowerPath.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NormalFlowerPath.swift; sourceTree = "<group>"; };
-		DBAED0812B5C461A00DFF3EE /* HeartShapePath.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HeartShapePath.swift; sourceTree = "<group>"; };
-		DBAED0822B5C461A00DFF3EE /* LotusFlowerPath.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotusFlowerPath.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,8 +62,6 @@
 		DBAED0562B5BD44000DFF3EE /* ExploringVision */ = {
 			isa = PBXGroup;
 			children = (
-				DBAED06A2B5C461900DFF3EE /* Flower */,
-				DBAED07A2B5C461900DFF3EE /* Path */,
 				DBAED05B2B5BD44000DFF3EE /* ExploringVisionApp.swift */,
 				DBAED05D2B5BD44000DFF3EE /* ContentView.swift */,
 				DB99C64C2B5D66A6009E29B3 /* NewWindowView.swift */,
@@ -136,43 +88,6 @@
 				DBAED0622B5BD44100DFF3EE /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
-			sourceTree = "<group>";
-		};
-		DBAED06A2B5C461900DFF3EE /* Flower */ = {
-			isa = PBXGroup;
-			children = (
-				DBAED06B2B5C461900DFF3EE /* MarigoldFlower.swift */,
-				DBAED06C2B5C461900DFF3EE /* OrchidsFlower.swift */,
-				DBAED06D2B5C461900DFF3EE /* NormalFlower.swift */,
-				DBAED06E2B5C461900DFF3EE /* LotusFlower.swift */,
-				DBAED06F2B5C461900DFF3EE /* Sunflower.swift */,
-				DBAED0702B5C461900DFF3EE /* TuberoseFlower.swift */,
-				DBAED0712B5C461900DFF3EE /* RoseMyrtleFlower.swift */,
-				DBAED0722B5C461900DFF3EE /* ApricotFlower.swift */,
-				DBAED0732B5C461900DFF3EE /* YellowDaisyFlower.swift */,
-				DBAED0742B5C461900DFF3EE /* RoseFlower.swift */,
-				DBAED0752B5C461900DFF3EE /* DaisyFlower.swift */,
-				DBAED0762B5C461900DFF3EE /* GattungCamelliaFlower.swift */,
-				DBAED0772B5C461900DFF3EE /* FourLeafClover.swift */,
-				DBAED0782B5C461900DFF3EE /* IrisDomesticaFlower.swift */,
-				DBAED0792B5C461900DFF3EE /* CherryBlossom .swift */,
-			);
-			path = Flower;
-			sourceTree = "<group>";
-		};
-		DBAED07A2B5C461900DFF3EE /* Path */ = {
-			isa = PBXGroup;
-			children = (
-				DBAED07B2B5C461900DFF3EE /* ChrysanthemumPath.swift */,
-				DBAED07C2B5C461900DFF3EE /* OrchidsPatelPath.swift */,
-				DBAED07D2B5C461900DFF3EE /* IrisDomesticaPath.swift */,
-				DBAED07E2B5C461900DFF3EE /* CheryBlossomFlowerPath.swift */,
-				DBAED07F2B5C461A00DFF3EE /* DrawingPath.swift */,
-				DBAED0802B5C461A00DFF3EE /* NormalFlowerPath.swift */,
-				DBAED0812B5C461A00DFF3EE /* HeartShapePath.swift */,
-				DBAED0822B5C461A00DFF3EE /* LotusFlowerPath.swift */,
-			);
-			path = Path;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -250,32 +165,9 @@
 			files = (
 				DBAED05E2B5BD44000DFF3EE /* ContentView.swift in Sources */,
 				DB99C64B2B5CF1C5009E29B3 /* NavigationExample.swift in Sources */,
-				DBAED0922B5C461A00DFF3EE /* ChrysanthemumPath.swift in Sources */,
-				DBAED0842B5C461A00DFF3EE /* OrchidsFlower.swift in Sources */,
-				DBAED0972B5C461A00DFF3EE /* NormalFlowerPath.swift in Sources */,
 				DB99C6492B5CF185009E29B3 /* TabBarExample.swift in Sources */,
-				DBAED0912B5C461A00DFF3EE /* CherryBlossom .swift in Sources */,
-				DBAED0852B5C461A00DFF3EE /* NormalFlower.swift in Sources */,
-				DBAED0902B5C461A00DFF3EE /* IrisDomesticaFlower.swift in Sources */,
-				DBAED0872B5C461A00DFF3EE /* Sunflower.swift in Sources */,
-				DBAED08F2B5C461A00DFF3EE /* FourLeafClover.swift in Sources */,
-				DBAED0982B5C461A00DFF3EE /* HeartShapePath.swift in Sources */,
-				DBAED08B2B5C461A00DFF3EE /* YellowDaisyFlower.swift in Sources */,
-				DBAED08E2B5C461A00DFF3EE /* GattungCamelliaFlower.swift in Sources */,
 				DBAED05C2B5BD44000DFF3EE /* ExploringVisionApp.swift in Sources */,
-				DBAED0962B5C461A00DFF3EE /* DrawingPath.swift in Sources */,
-				DBAED0952B5C461A00DFF3EE /* CheryBlossomFlowerPath.swift in Sources */,
-				DBAED0942B5C461A00DFF3EE /* IrisDomesticaPath.swift in Sources */,
-				DBAED08A2B5C461A00DFF3EE /* ApricotFlower.swift in Sources */,
-				DBAED08C2B5C461A00DFF3EE /* RoseFlower.swift in Sources */,
-				DBAED0932B5C461A00DFF3EE /* OrchidsPatelPath.swift in Sources */,
-				DBAED0992B5C461A00DFF3EE /* LotusFlowerPath.swift in Sources */,
-				DBAED0862B5C461A00DFF3EE /* LotusFlower.swift in Sources */,
 				DB99C64D2B5D66A6009E29B3 /* NewWindowView.swift in Sources */,
-				DBAED0892B5C461A00DFF3EE /* RoseMyrtleFlower.swift in Sources */,
-				DBAED0832B5C461A00DFF3EE /* MarigoldFlower.swift in Sources */,
-				DBAED08D2B5C461A00DFF3EE /* DaisyFlower.swift in Sources */,
-				DBAED0882B5C461A00DFF3EE /* TuberoseFlower.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
